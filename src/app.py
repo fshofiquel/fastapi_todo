@@ -1,4 +1,3 @@
-# this is just a test to see everything is working as expected here for gitlens.
 from fastapi import APIRouter, FastAPI
 
 from src.todo.routes.todo import router as todo_router
